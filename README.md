@@ -31,7 +31,7 @@ Estou sempre em busca de evolução, aprendendo novas tecnologias e contribuindo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-de-faria)  
 📧 **Email:** viny.faria@hotmail.com  
-🔗 **GitHub:** [ViniciusdeFaria](https://github.com/ViniciusdeFaria)
+
 
 ---
 
