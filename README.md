@@ -22,7 +22,7 @@ Estou sempre em busca de evolução, aprendendo novas tecnologias e contribuindo
 
 ### 🎯 Formação
 
-- 💻 **Desenvolvimento Back-End** – Universidade Cidade de São Paulo (2024 - 2025) — *Cursando*
+- 💻 **Desenvolvimento Back-End** – Universidade Cidade de São Paulo (2024 - 2026) — *Cursando*
 - 🎓 **Análise e Desenvolvimento de Sistemas** – Anhanguera (2022 - 2023) — *Concluído*
 
 ---
